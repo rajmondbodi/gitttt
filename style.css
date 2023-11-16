@@ -1,0 +1,14 @@
+
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-size: 100px;
+    color: blue;
+}
+p{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
